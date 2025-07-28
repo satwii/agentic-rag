@@ -1,0 +1,5 @@
+remaining:
+0. manager agent pending
+1. building continuous chatbot kind 
+2. ui
+3. check whether gmail integration is possible or not
